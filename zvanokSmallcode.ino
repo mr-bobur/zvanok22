@@ -7,6 +7,8 @@ unsigned long time1, time2;
 tmElements_t tm;
 int sshh = 1;
 int aass = 0;
+int sshhq = 1;
+int aassw = 0;
 int sshhss = 0;
 int  chv      = 0;
 int  tv       = 0;
